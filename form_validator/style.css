@@ -1,0 +1,50 @@
+.card-header h3{
+    text-align: center;
+}
+.btn{
+    color: black;
+    background-color: darkcyan;
+    font-weight:bold;
+    letter-spacing: 1px;
+}
+.btn:hover{
+    color: rgb(19, 164, 164);
+    background-color: black;
+
+}
+.card{
+    background-color: rgb(52, 102, 102);
+    border-radius: 10px;
+    box-shadow: rgba(12, 20, 20, 0.2) 0px 7px 29px 0px;
+}
+.inputText{
+    color: black;
+    font-weight:600;
+    letter-spacing: 1px;
+}
+.form-control{
+    background-color: rgb(83, 80, 80);
+    border: 2px solid black;
+    color:rgb(81, 169, 140);
+}
+.form-control:focus{
+    background-color: black;
+    border: 2px solid darkcyan;
+    color: aquamarine;
+}
+
+body{
+   background-color:white;
+    font-family: 'Source Code Pro', monospace;
+
+}
+.error{
+    color: rgb(127, 30, 30);
+    font-weight: 700;
+}
+
+.success{
+    color:rgb(68, 177, 177);
+    font-weight: 700;
+}
+
